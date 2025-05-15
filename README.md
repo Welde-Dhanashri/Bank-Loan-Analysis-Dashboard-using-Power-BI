@@ -59,7 +59,8 @@ Build an interactive dashboard that helps stakeholders:
 
 ### 3️⃣ Detailed Dashboard  
 - Focuses on individual loan records and customer profiles  
-- Useful for loan officers and analysts for case-by-case tracking  
+- Useful for loan officers and analysts for case-by-case tracking
+![Detail Dashboard](https://github.com/Welde-Dhanashri/Bank-Loan-Analysis-Dashboard-using-Power-BI/blob/main/Detail%20Dashboard.png?raw=true)
 
 ---
 
