@@ -48,7 +48,8 @@ Build an interactive dashboard that helps stakeholders:
 ### 1️⃣ Summary Dashboard  
 - Shows KPIs like total applications, good/bad loan ratios  
 - Grid view of loan status with dynamic filters (State-wise, Purpose-wise)  
-- Helps stakeholders understand regional performance (e.g., California vs. Alaska)  
+- Helps stakeholders understand regional performance (e.g., California vs. Alaska)
+![Summary Dashboard](https://github.com/Welde-Dhanashri/Bank-Loan-Analysis-Dashboard-using-Power-BI/blob/main/Summary%20Dashboard.png?raw=true)
 
 ### 2️⃣ Overview Dashboard  
 - Enables multi-dimensional views of the same data  
