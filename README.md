@@ -54,7 +54,8 @@ Build an interactive dashboard that helps stakeholders:
 ### 2️⃣ Overview Dashboard  
 - Enables multi-dimensional views of the same data  
 - Allows slicing by loan grade, term, credit history, and customer type  
-- Helps understand approval patterns and profitability segments  
+- Helps understand approval patterns and profitability segments
+![Overview Dashboard](https://github.com/Welde-Dhanashri/Bank-Loan-Analysis-Dashboard-using-Power-BI/blob/main/Overview%20Dashboard.png?raw=true)
 
 ### 3️⃣ Detailed Dashboard  
 - Focuses on individual loan records and customer profiles  
